@@ -1,5 +1,7 @@
 ## "hello world..!!" 👋
 
+<img src="https://pbs.twimg.com/profile_banners/369017872/1675591260/1500x500">
+
 I am Android dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out spande6@gmail.com | www.shekharpande.com. Feel free to reach out in case you want to just get in touch also.
 
 - 📫 Created 30+ fully functional applications for Android devices. 
