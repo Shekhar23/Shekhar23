@@ -2,18 +2,21 @@
 
 <img src="https://pbs.twimg.com/profile_banners/369017872/1675591260/1500x500">
 
+> Every positive action, no matter how small, contributes to the greater good of humanity.
+
 As an experienced Android developer, I am passionate about leveraging my skills and expertise to create innovative and user-friendly applications that drive engagement and deliver results. With a strong foundation in Java and Kotlin programming languages, as well as a deep understanding of Android operating systems and tools, I am committed to developing scalable, maintainable, and high-performance code that meets the needs of users. Whether working independently or collaborating with cross-functional teams, I am dedicated to delivering products that exceed expectations and drive success. With a constant focus on learning and growth, I am always seeking out new opportunities to expand my knowledge and skill set.
 
+
 Following are some key points related to me.
-- 📫Expertise in Android, Kotlin, and Java programming.
-- 📫Expertise in using the Android SDK, JDK, NDK, Coroutines, and external SDKs.
-- 📫Expertise in architectures like MVC, MVP, MVVM, and Java Design Patterns.
-- 📫Expertise in Android Jetpack components like Room, WorkManager, Lifecycle, ViewModel, LiveData, Navigation, Paging, Data Binding, Permissions, Notifications, and AppCompat.
-- 📫Expertise in DI frameworks i.e. Dagger2 and Hilt.
-- 📫Experience in database systems like SQL Server, MySQL, Derby, Firebase, SQLite, and Openfire.
-- 📫Expertise in version control systems using Bitbucket, Git, GitLab, and SVN.
-- 📫AGILE project management
-- 📫Junit and Mockito.
+- 📫 Expertise in Android, Kotlin, and Java programming.
+- 📫 Expertise in using the Android SDK, JDK, NDK, Coroutines, and external SDKs.
+- 📫 Expertise in architectures like MVC, MVP, MVVM, and Java Design Patterns.
+- 📫 Expertise in Android Jetpack components like Room, WorkManager, Lifecycle, ViewModel, LiveData, Navigation, Paging, Data Binding, Permissions, Notifications, and AppCompat.
+- 📫 Expertise in DI frameworks i.e. Dagger2 and Hilt.
+- 📫 Experience in database systems like SQL Server, MySQL, Derby, Firebase, SQLite, and Openfire.
+- 📫 Expertise in version control systems using Bitbucket, Git, GitLab, and SVN.
+- 📫 AGILE project management
+- 📫 Junit and Mockito.
 - 📫 Created 30+ fully functional applications for Android devices. 
 - 📫 Known for writing efficient, maintainable, and reusable code. 
 - 📫 Proficient in design, data structures, problem-solving, and debugging. 
@@ -21,11 +24,14 @@ Following are some key points related to me.
 
 I am Android dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out spande6@gmail.com | www.shekharpande.com. Feel free to reach out in case you want to just get in touch also.
 
+🚀 Excited to share my programming tutorial blog, 'StepByStepCode'! 📚 Dive into step-by-step guides, insightful tips, and practical examples to level up your coding skills! 💻 Check it out now: [StepByStepCode Blog](https://stepbystepcode.in/)
+
 A forward-thinking developer offering more than five years of experience building, integrating, testing, and supporting Android applications for mobile and tablet devices on the Android platform seeks a position with a top technology firm.
 
 - 🔭 I’m currently working on Java and Android.
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Android, java, kotlin, Unix.
+
 
 </h4>
 <p align="center">
@@ -42,3 +48,4 @@ A forward-thinking developer offering more than five years of experience buildin
 
 <-->
 <h5 align="center">Made With ❤️ by Me </h5>
+
