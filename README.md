@@ -2,38 +2,66 @@
 
 <img src="https://pbs.twimg.com/profile_banners/369017872/1675591260/1500x500">
 
-> Every positive action, no matter how small, contributes to the greater good of humanity.
+## About Me
 
-As an experienced Android developer, I am passionate about leveraging my skills and expertise to create innovative and user-friendly applications that drive engagement and deliver results. With a strong foundation in Java and Kotlin programming languages, as well as a deep understanding of Android operating systems and tools, I am committed to developing scalable, maintainable, and high-performance code that meets the needs of users. Whether working independently or collaborating with cross-functional teams, I am dedicated to delivering products that exceed expectations and drive success. With a constant focus on learning and growth, I am always seeking out new opportunities to expand my knowledge and skill set.
+**“Every positive action, no matter how small, contributes to the greater good of humanity.”**
+
+I'm **Shekhar Pande**, a passionate and forward-thinking **Android Developer** with over **10 years of professional experience** delivering scalable, maintainable, and high-performance Android applications that solve real-world problems. My work philosophy is grounded in continuous learning, knowledge sharing, and a commitment to engineering excellence.
+
+I bring to the table deep expertise in **Java**, **Kotlin**, and the **Android ecosystem**, combined with a hands-on approach to architecture design, clean code principles, and cross-team collaboration. I have successfully delivered **30+ full-featured Android applications**, spanning domains like logistics (ELD systems, fleet management), communication apps, productivity tools, and AI-integrated experiences.
+
+## My Core Strengths
+
+* **Languages**: Kotlin, Java
+* **Frameworks & Tools**: Android SDK, NDK, Coroutines, Jetpack, Compose
+* **Architectures**: MVC, MVP, MVVM, Clean Architecture, Design Patterns
+* **Jetpack Components**: Room, WorkManager, ViewModel, LiveData, Navigation, Paging, Data Binding, Lifecycle, Notifications
+* **Dependency Injection**: Dagger2, Hilt
+* **Database Systems**: SQLite, Firebase, MySQL, SQL Server, Openfire
+* **Version Control**: Git, GitLab, Bitbucket, SVN
+* **Testing**: JUnit, Mockito
+* **Project Management**: Agile/Scrum methodologies
+* **Performance Optimization**: Profiling tools, memory management, multi-module structuring
+* **App Security**: Play Integrity API, SafetyNet, secure authentication strategies
+
+## AI Tools I Integrate into Android Development
+
+As AI continues to reshape the developer experience, I actively leverage modern AI-driven tools to accelerate, test, and enhance Android projects:
+
+* **GitHub Copilot** — for intelligent code suggestions and productivity boosts
+* **ChatGPT / GPT-4o** — for design discussions, code reviews, and problem-solving strategies
+* **Firebase ML Kit** — for on-device AI features like text recognition, face detection, and translation
+* **Android Studio Bot (Beta)** — for in-IDE AI code generation and refactoring assistance
+* **ML On-Device Models** (TensorFlow Lite) — integrating AI-powered features in mobile apps
+* **Testim or Applitools** — for AI-driven UI test automation and visual regression testing
+
+##  Projects & Highlights
+
+* Lead developer for enterprise ELD and fleet management solutions for **Rand McNally**, integrating Android tablets, dash cams, and IoT peripherals.
+* Designed and deployed **TalkTone** — a high-performance voice communication app with real-time messaging and bot mitigation strategies.
+* Founder of **Crin’s MyDay** — a day-planner Android app streamlining productivity workflows.
+* Authored **StepByStepCode** blog, offering hands-on Android, Java, and Kotlin tutorials.
+* Developed scalable multi-module apps with offline-first capabilities using Room, WorkManager, and MVVM with Clean Architecture principles.
+
+##  Current Focus
+
+* Building Jetpack Compose production apps
+* Integrating AI and machine learning capabilities into Android apps
+* Exploring cloud-native mobile architectures (Firebase, AWS Mobile Hub)
+* Mentoring and conducting internal training sessions on Android best practices
+
+## Let’s Connect
+
+* 📫 Email: [spande6@gmail.com](mailto:spande6@gmail.com)
+* 🌐 Portfolio: [www.shekharpande.com](http://www.shekharpande.com)
+* 💻 Blog: [StepByStepCode](http://www.stepbystepcode.in)
+* 🔗 LinkedIn : [Shekhar Pande](https://www.linkedin.com/in/shekharpande/)
+
+I’m always open to collaborations, knowledge sharing, or even casual tech talks. If you’ve found value in my work or would like to connect — drop me a message!
+
+---
 
 
-Following are some key points related to me.
-- 📫 Expertise in Android, Kotlin, and Java programming.
-- 📫 Expertise in using the Android SDK, JDK, NDK, Coroutines, and external SDKs.
-- 📫 Expertise in architectures like MVC, MVP, MVVM, and Java Design Patterns.
-- 📫 Expertise in Android Jetpack components like Room, WorkManager, Lifecycle, ViewModel, LiveData, Navigation, Paging, Data Binding, Permissions, Notifications, and AppCompat.
-- 📫 Expertise in DI frameworks i.e. Dagger2 and Hilt.
-- 📫 Experience in database systems like SQL Server, MySQL, Derby, Firebase, SQLite, and Openfire.
-- 📫 Expertise in version control systems using Bitbucket, Git, GitLab, and SVN.
-- 📫 AGILE project management
-- 📫 Junit and Mockito.
-- 📫 Created 30+ fully functional applications for Android devices. 
-- 📫 Known for writing efficient, maintainable, and reusable code. 
-- 📫 Proficient in design, data structures, problem-solving, and debugging. 
-- 📫 Expert in the interaction between various devices and versions of Android
-
-I am Android dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out spande6@gmail.com | www.shekharpande.com. Feel free to reach out in case you want to just get in touch also.
-
-🚀 Excited to share my programming tutorial blog, 'StepByStepCode'! 📚 Dive into step-by-step guides, insightful tips, and practical examples to level up your coding skills! 💻 Check it out now: [StepByStepCode Blog](https://stepbystepcode.in/)
-
-A forward-thinking developer offering more than five years of experience building, integrating, testing, and supporting Android applications for mobile and tablet devices on the Android platform seeks a position with a top technology firm.
-
-- 🔭 I’m currently working on Java and Android.
-- 🌱 I’m currently learning Kotlin
-- 💬 Ask me about Android, java, kotlin, Unix.
-
-
-</h4>
 <p align="center">
 <a href="https://github.com/shekhar23"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=shekhar23&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
