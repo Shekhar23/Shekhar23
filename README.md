@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shekharpande-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekharpande/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shekharpande.com-000000?style=flat-square&logo=vercel&logoColor=white)](http://www.shekharpande.com)
+[![Creative Portfolio](https://img.shields.io/badge/Creative_Portfolio-shekharpande.dev-8B5CF6?style=flat-square&logo=sparkles&logoColor=white)](https://shekharpande.dev)
 [![QuickDevTools](https://img.shields.io/badge/QuickDevTools-Live_Site-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://www.quickdevtools.com)
 [![Blog](https://img.shields.io/badge/Blog-StepByStepCode-FF6B35?style=flat-square&logo=hashnode&logoColor=white)](http://www.stepbystepcode.in)
 [![Email](https://img.shields.io/badge/Email-spande6@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:spande6@gmail.com)
@@ -199,7 +200,8 @@ If you've found value in my work or open-source repos — drop a ⭐ on GitHub a
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekharpande/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://www.shekharpande.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shekharpande.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://www.shekharpande.com)
+[![Creative Portfolio](https://img.shields.io/badge/Creative_Portfolio-shekharpande.dev-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white)](https://shekharpande.dev)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spande6@gmail.com)
 
 <a href="https://www.buymeacoffee.com/shekhar23" target="_blank">
