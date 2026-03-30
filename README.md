@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shekharpande-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekharpande/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shekharpande.com-000000?style=flat-square&logo=vercel&logoColor=white)](http://www.shekharpande.com)
+[![QuickDevTools](https://img.shields.io/badge/QuickDevTools-Live_Site-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://www.quickdevtools.com)
 [![Blog](https://img.shields.io/badge/Blog-StepByStepCode-FF6B35?style=flat-square&logo=hashnode&logoColor=white)](http://www.stepbystepcode.in)
 [![Email](https://img.shields.io/badge/Email-spande6@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:spande6@gmail.com)
 
@@ -21,7 +22,7 @@ I'm a **Senior Android Developer** with **10+ years** of experience building sca
 
 What sets me apart: I don't just write code — I architect systems. I pair **clean multi-module Android architecture** with cutting-edge **AI coding tools** (Claude Code, GitHub Copilot) to ship faster, smarter, and with higher quality than ever before.
 
-> 🔥 Currently: Building AI-native Android experiences and open-sourcing my learnings for the community.
+> 🔥 Currently: Building AI-native Android experiences, open-source dev tools, and sharing learnings with the community.
 
 ---
 
@@ -40,7 +41,7 @@ I actively integrate AI into every stage of the development lifecycle:
 | 🧪 **Applitools / Testim** | AI-driven UI test automation and visual regression testing across devices. |
 | 🛡️ **GitHub Advanced Security** | AI-assisted vulnerability detection and secret scanning in CI/CD pipelines. |
 
-> **Open-source proof:** [`claude-zero-to-hero-android-KMP`](https://github.com/Shekhar23/claude-zero-to-hero-android-KMP) — 40 opinionated skill documents that turn Claude Code into a senior Android engineer on your team. Live demo: [`TaskVault`](https://github.com/Shekhar23/TaskVault) — a production-grade app scaffolded from a single Claude Code prompt.
+> **Open-source proof:** [`claude-zero-to-hero-android-KMP`](https://github.com/Shekhar23/claude-zero-to-hero-android-KMP) — 40 skill docs turning Claude Code into a senior Android engineer. [`TaskVault`](https://github.com/Shekhar23/TaskVault) — production Android app from a single prompt. [`QuickDevTools`](https://github.com/Shekhar23/quick_dev_tools) — 46+ browser-based dev utilities built with React + AI, live at [quickdevtools.com](https://www.quickdevtools.com).
 
 ---
 
@@ -78,6 +79,12 @@ I actively integrate AI into every stage of the development lifecycle:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Web & Frontend (AI-assisted)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -129,6 +136,21 @@ I actively integrate AI into every stage of the development lifecycle:
 - Works with **Claude Code**, **Claude.ai**, and **GitHub Copilot**
 
 ⭐ If this saves you time, a star means the world!
+
+---
+
+### ⚡ [QuickDevTools](https://github.com/Shekhar23/quick_dev_tools) — AI-Built Web Toolkit for Developers
+> **46+ free, browser-based developer utilities** — No login. No signup. No data sent to a server. Live at [quickdevtools.com](https://www.quickdevtools.com).
+
+**Stack:** React 18 · TypeScript · Vite · Tailwind CSS · shadcn/ui · Firebase Analytics
+
+**Highlights:**
+- 🤖 Entire codebase co-created with **Claude Code + Claude AI** — real-world proof of AI-assisted full-stack development
+- 🔧 Tools for every layer: JSON formatter, JWT decoder, regex tester, Android DPI calculator, FCM payload generator, QR code, and 40+ more
+- 📱 Dedicated **Android/iOS dev tools** section (dimens scaler, keystore viewer, deep link generator, manifest permission checker)
+- 🔐 Security tools: AES/RSA encryption, hash generator, password strength checker
+- 🌐 Full SEO implementation, Firebase Analytics, AdSense-ready, MIT licensed
+- 🚀 Deployable to any static host (Netlify, Vercel, Cloudflare Pages)
 
 ---
 
