@@ -87,26 +87,6 @@ I actively integrate AI into every stage of the development lifecycle:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
-
-## 🧱 Architecture Expertise
-
-```
-┌─────────────────────────────────────────────────────┐
-│              My Android Architecture Stack           │
-├─────────────┬──────────────┬────────────────────────┤
-│  MVC / MVP  │    MVVM +    │   Clean Architecture   │
-│  (Legacy)   │  MVI (Compose│   Multi-Module Setup   │
-├─────────────┴──────────────┴────────────────────────┤
-│  Jetpack Suite: ViewModel · LiveData · StateFlow     │
-│  Room · WorkManager · Navigation · Paging 3         │
-│  DataStore · App Startup · CameraX · Play Delivery  │
-├─────────────────────────────────────────────────────┤
-│  DI: Hilt (Dagger2) · Koin                          │
-│  Async: Coroutines · Flow · Channels                │
-│  Network: Ktor · Retrofit · OkHttp · gRPC           │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
 
